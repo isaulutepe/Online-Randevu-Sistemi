@@ -23,10 +23,10 @@ Proje, aşağıdaki temel katmanlardan oluşmaktadır:
 * 🟢 Uzmanlık alanlarına göre listeleme.
 
 ### Randevu İşlemleri
-*🟢 Randevu ekleyebilme, listeleyebilme, güncelleyebilme ve silebilme.
-*🟢 Doktorun uygunluk kontrolü.
-*🟢 Hastanın aynı gün içinde birden fazla randevu almasını engelleme.
-*🟢 ID üzerinden tekil erişim.
+* 🟢 Randevu ekleyebilme, listeleyebilme, güncelleyebilme ve silebilme.
+* 🟢 Doktorun uygunluk kontrolü.
+* 🟢 Hastanın aynı gün içinde birden fazla randevu almasını engelleme.
+* 🟢 ID üzerinden tekil erişim.
 
 ## API Endpoint'leri
 | İşlem               | HTTP Metodu | Endpoint                                     |
