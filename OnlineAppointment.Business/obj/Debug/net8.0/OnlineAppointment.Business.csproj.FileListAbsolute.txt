@@ -1,0 +1,17 @@
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.Business.deps.json
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.Business.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.Business.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.Entity.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\bin\Debug\net8.0\OnlineAppointment.Entity.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.csproj.AssemblyReference.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.AssemblyInfoInputs.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.AssemblyInfo.cs
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.csproj.CoreCompileInputs.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAp.E59F325D.Up2Date
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\refint\OnlineAppointment.Business.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\OnlineAppointment.Business.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.Business\obj\Debug\net8.0\ref\OnlineAppointment.Business.dll

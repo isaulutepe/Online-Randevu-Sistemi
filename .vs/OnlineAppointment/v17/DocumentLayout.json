@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|solutionrelative:onlineappointment.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|solutionrelative:onlineappointment.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C462E-12A4-4136-8B55-C0C1DAAF7157}|OnlineAppointment.Entity\\OnlineAppointment.Entity.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73C462E-12A4-4136-8B55-C0C1DAAF7157}|OnlineAppointment.Entity\\OnlineAppointment.Entity.csproj|solutionrelative:onlineappointment.entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C462E-12A4-4136-8B55-C0C1DAAF7157}|OnlineAppointment.Entity\\OnlineAppointment.Entity.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73C462E-12A4-4136-8B55-C0C1DAAF7157}|OnlineAppointment.Entity\\OnlineAppointment.Entity.csproj|solutionrelative:onlineappointment.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\concrete\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\concrete\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\abstract\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\abstract\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2F52D7-6D3B-44F9-B7F4-22A045DE0757}|OnlineAppointment.DataAccess\\OnlineAppointment.DataAccess.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.dataaccess\\concrete\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2F52D7-6D3B-44F9-B7F4-22A045DE0757}|OnlineAppointment.DataAccess\\OnlineAppointment.DataAccess.csproj|solutionrelative:onlineappointment.dataaccess\\concrete\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2F52D7-6D3B-44F9-B7F4-22A045DE0757}|OnlineAppointment.DataAccess\\OnlineAppointment.DataAccess.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.dataaccess\\abstract\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2F52D7-6D3B-44F9-B7F4-22A045DE0757}|OnlineAppointment.DataAccess\\OnlineAppointment.DataAccess.csproj|solutionrelative:onlineappointment.dataaccess\\abstract\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\abstract\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\abstract\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|solutionrelative:onlineappointment.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE16FE-BF47-47BC-BE0E-C33EC42A88C5}|OnlineAppointment.API\\OnlineAppointment.API.csproj|solutionrelative:onlineappointment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|d:\\yedek\\api islemleri\\onlineappointment\\onlineappointment.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C15DADE-69CD-4F8B-90D7-D6AA6A260A4D}|OnlineAppointment.Business\\OnlineAppointment.Business.csproj|solutionrelative:onlineappointment.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Entity\\Doctor.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Entity\\Doctor.cs",
+              "RelativeToolTip": "OnlineAppointment.Entity\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:13:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Entity\\User.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Entity\\User.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Entity\\User.cs",
+              "RelativeToolTip": "OnlineAppointment.Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:13:02.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Abstract\\IAppointmentService.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IAppointmentService.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Abstract\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:31:12.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentManager.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\AppointmentManager.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Concrete\\AppointmentManager.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\AppointmentManager.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Concrete\\AppointmentManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:23:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Abstract\\IDoctorService.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IDoctorService.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Abstract\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:11:11.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.API\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "OnlineAppointment.API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:55:11.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "OnlineAppointment.API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:05:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.DataAccess\\Concrete\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.DataAccess\\Concrete\\AppointmentRepository.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.DataAccess\\Concrete\\AppointmentRepository.cs",
+              "RelativeToolTip": "OnlineAppointment.DataAccess\\Concrete\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:42:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.DataAccess\\Abstract\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.DataAccess\\Abstract\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.DataAccess\\Abstract\\IAppointmentRepository.cs",
+              "RelativeToolTip": "OnlineAppointment.DataAccess\\Abstract\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:47:10.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Concrete\\DoctorManager.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\DoctorManager.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Concrete\\DoctorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:23:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Abstract\\IUserService.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:38:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineAppointment.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:35:25.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.API\\Program.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.API\\Program.cs",
+              "RelativeToolTip": "OnlineAppointment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:33:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.Business\\Concrete\\UserManager.cs",
+              "ToolTip": "D:\\Yedek\\Api Islemleri\\OnlineAppointment\\OnlineAppointment.Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "OnlineAppointment.Business\\Concrete\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:18:58.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

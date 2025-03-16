@@ -1,0 +1,17 @@
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.DataAccess.deps.json
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.DataAccess.runtimeconfig.json
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.Entity.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\bin\Debug\net8.0\OnlineAppointment.Entity.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.csproj.AssemblyReference.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.AssemblyInfoInputs.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.AssemblyInfo.cs
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.csproj.CoreCompileInputs.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAp.C8044E32.Up2Date
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\refint\OnlineAppointment.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\OnlineAppointment.DataAccess.genruntimeconfig.cache
+D:\Yedek\Api Islemleri\OnlineAppointment\OnlineAppointment.DataAccess\obj\Debug\net8.0\ref\OnlineAppointment.DataAccess.dll
